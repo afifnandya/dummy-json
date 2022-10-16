@@ -1,334 +1,70 @@
 {
   "karyawan": [
     {
-      "nik": 98743,
-      "status": "aktif",
-      "nama": "Saka Haikal",
+      "nik": 13995,
+      "status": "tidak aktif",
+      "nama": "Harja Haikal",
       "perusahaan": "BEISHI",
-      "departement": "ga",
-      "pendidikan": "s2",
-      "jurusan": "pajak",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
       "tanggungan": "aktif",
-      "tanggunganPajak": "K1",
-      "statusPernikahan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
       "tanggalUpdateKK": "kawin",
-      "ktp": "4029e337-2347-4ada-8c9b-1c0c3ab12508",
-      "asalKtp": "jakarta",
+      "ktp": "02bf1b89-95c0-48e8-b1c6-a2fe8dbbf5cf",
+      "asalKtp": "malang",
       "kategori": "ambunu",
-      "telepon": "+624185190090",
-      "teleponDarurat": "+629997460306",
-      "alamat": "Gg. Thea no 4 Suite 278",
+      "telepon": "+622809037672",
+      "teleponDarurat": "+629213527078",
+      "alamat": "Ds. Dakota no 37 Suite 426",
       "rekening": {
         "bank": "mandiri",
-        "rekening": 63167
+        "rekening": 7078
       },
       "keluar": {
-        "tipe": "resign",
-        "kategori": "pelanggaran",
-        "tanggalKeluar": "2099-07-20T08:37:28.625Z",
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2072-10-24T05:55:13.822Z",
         "kontrak": "pkwt1",
-        "tanggalPengajuan": "2050-05-30T09:09:49.559Z",
-        "keterangan": "corporis adipisci reprehenderit"
+        "tanggalPengajuan": "2032-06-24T19:49:42.203Z",
+        "keterangan": "cumque reiciendis harum"
       },
       "mutasi": {
-        "tanggal": "2072-09-17T10:42:30.283Z",
-        "deskripsi": "totam quasi quod"
+        "tanggal": "2056-02-24T13:14:11.076Z",
+        "deskripsi": "tempore nostrum libero"
       },
       "dataKeluarga": {
-        "kartuKeluarga": 4365,
-        "ibuKandung": "Kamila Hasanah S.I.Kom",
+        "kartuKeluarga": 49128,
+        "ibuKandung": "Dinda Ramadhani",
         "pasangan": {
-          "nama": "Olga Thamrin",
-          "ktp": 95067,
-          "tanggalLahir": "1965-02-04T07:06:03.734Z",
-          "temparLahir": "Rangkasbitung"
+          "nama": "Mutia Anjani M.Kom.",
+          "ktp": 59487,
+          "tanggalLahir": "1967-10-21T07:09:19.381Z",
+          "temparLahir": "Toli Toli"
         },
         "jumlahAnak": 1,
         "anak": []
       },
       "kontrak": [],
-      "npwp": "9f57e709-e6ae-4199-84c9-4dca4b7662bb",
-      "jenisKelamin": "-",
-      "tempatLahir": "Wanggudu",
-      "tanggalLahir": "1977-07-01T01:56:51.994Z",
+      "npwp": "41c430d3-470c-4fe9-a6ec-bf95472b7277",
+      "jenisKelamin": "k",
+      "tempatLahir": "Ponorogo",
+      "tanggalLahir": "1978-09-28T07:57:55.497Z",
       "bpjs": {
         "kesehatan": "todo",
         "tenagaKerja": "todo"
       },
       "sim": "sim-c",
-      "kartuKeluarga": "d0b7719e-dbf8-4f3e-ac0c-24e81ec64cd5",
-      "umur": 34,
+      "kartuKeluarga": "57341e44-d2e2-4d81-a614-1e14cad51873",
+      "umur": 46,
       "agama": "hindu",
       "divisi": "hr",
       "jabatan": "translator",
-      "grade": "6A",
-      "dateOfHiring": "2055-05-31T08:18:32.967Z",
-      "kontrakSebelumnya": "1",
-      "kontrakSekarang": "k"
-    },
-    {
-      "nik": 24703,
-      "status": "tidak aktif",
-      "nama": "Rangga Herlambang",
-      "perusahaan": "BAOSHUO",
-      "departement": "finance",
-      "pendidikan": "s2",
-      "jurusan": "pajak",
-      "tanggungan": "aktif",
-      "tanggunganPajak": "K1",
-      "statusPernikahan": "aktif",
-      "tanggalUpdateKK": "cerai",
-      "ktp": "8c5e8142-ff79-44d8-979c-1287f57ede5e",
-      "asalKtp": "jakarta",
-      "kategori": "ambunu",
-      "telepon": "+624522949110",
-      "teleponDarurat": "+628404004377",
-      "alamat": "Ds. Anibal no 9 Apt. 238",
-      "rekening": {
-        "bank": "mandiri",
-        "rekening": 69267
-      },
-      "keluar": {
-        "tipe": "",
-        "kategori": "pelanggaran",
-        "tanggalKeluar": "2003-04-02T00:14:40.274Z",
-        "kontrak": "",
-        "tanggalPengajuan": "2074-12-08T22:21:51.133Z",
-        "keterangan": "minus illo ipsum"
-      },
-      "mutasi": {
-        "tanggal": "2081-07-08T21:35:51.712Z",
-        "deskripsi": "consequatur quidem consequatur"
-      },
-      "dataKeluarga": {
-        "kartuKeluarga": 39442,
-        "ibuKandung": "Argono Megantara",
-        "pasangan": {
-          "nama": "Fara Anandya",
-          "ktp": 43202,
-          "tanggalLahir": "1953-08-15T06:40:43.391Z",
-          "temparLahir": "Kupang"
-        },
-        "jumlahAnak": 1,
-        "anak": []
-      },
-      "kontrak": [],
-      "npwp": "94fc99d1-a4a7-4f9e-81bd-f7e5ada91a9b",
-      "jenisKelamin": "-",
-      "tempatLahir": "Unaaha",
-      "tanggalLahir": "1992-05-21T15:54:39.671Z",
-      "bpjs": {
-        "kesehatan": "todo",
-        "tenagaKerja": "todo"
-      },
-      "sim": "sim-a",
-      "kartuKeluarga": "51a2336d-3463-464f-9cdd-fe6f251ffc89",
-      "umur": 46,
-      "agama": "kristen",
-      "divisi": "finance",
-      "jabatan": "translator",
       "grade": "10",
-      "dateOfHiring": "2019-11-17T12:10:42.536Z",
-      "kontrakSebelumnya": "p",
-      "kontrakSekarang": "p"
-    },
-    {
-      "nik": 303,
-      "status": "tidak aktif",
-      "nama": "Omar Tampubolon",
-      "perusahaan": "BEISHI",
-      "departement": "bussiness",
-      "pendidikan": "s1",
-      "jurusan": "hukum",
-      "tanggungan": "aktif",
-      "tanggunganPajak": "K1",
-      "statusPernikahan": "tidak aktif",
-      "tanggalUpdateKK": "tidak kawin",
-      "ktp": "327ad955-6e09-4fbd-a63c-bc0da2f8c126",
-      "asalKtp": "malang",
-      "kategori": "ambunu",
-      "telepon": "+621219626126",
-      "teleponDarurat": "+629627971894",
-      "alamat": "Kpg. Stewart no 98 Apt. 679",
-      "rekening": {
-        "bank": " bri",
-        "rekening": 34606
-      },
-      "keluar": {
-        "tipe": "resign",
-        "kategori": "pelanggaran",
-        "tanggalKeluar": "2046-04-09T12:30:51.476Z",
-        "kontrak": "",
-        "tanggalPengajuan": "2086-01-26T04:59:01.682Z",
-        "keterangan": "itaque quidem assumenda"
-      },
-      "mutasi": {
-        "tanggal": "1996-03-18T04:10:12.357Z",
-        "deskripsi": "atque ea unde"
-      },
-      "dataKeluarga": {
-        "kartuKeluarga": 2571,
-        "ibuKandung": "Zizi Sudiati",
-        "pasangan": {
-          "nama": "Vania Yulianti",
-          "ktp": 12063,
-          "tanggalLahir": "1948-08-14T03:04:27.605Z",
-          "temparLahir": "Buol"
-        },
-        "jumlahAnak": 1,
-        "anak": []
-      },
-      "kontrak": [],
-      "npwp": "a9503f50-2ac3-48fa-828a-f337850be28d",
-      "jenisKelamin": "l",
-      "tempatLahir": "Mojosari",
-      "tanggalLahir": "1969-01-19T03:03:16.499Z",
-      "bpjs": {
-        "kesehatan": "todo",
-        "tenagaKerja": "todo"
-      },
-      "sim": "sim-a",
-      "kartuKeluarga": "e6c94e82-e40d-4b7f-b2ed-c5bd43f0da28",
-      "umur": 47,
-      "agama": "kristen",
-      "divisi": "driver",
-      "jabatan": "operator",
-      "grade": "7",
-      "dateOfHiring": "2099-12-03T12:05:18.140Z",
-      "kontrakSebelumnya": "k",
-      "kontrakSekarang": "1"
-    },
-    {
-      "nik": 20311,
-      "status": "aktif",
-      "nama": "Titi Uyainah",
-      "perusahaan": "BAOSHUO",
-      "departement": "logistic",
-      "pendidikan": "s1",
-      "jurusan": "hukum",
-      "tanggungan": "tidak aktif",
-      "tanggunganPajak": "TK",
-      "statusPernikahan": "aktif",
-      "tanggalUpdateKK": "kawin",
-      "ktp": "0b847cff-6a3b-47d3-8673-e8b3607b3a92",
-      "asalKtp": "jakarta",
-      "kategori": "ambunu",
-      "telepon": "+621687195455",
-      "teleponDarurat": "+625121719537",
-      "alamat": "Kpg. Kshlerin no 8 Apt. 438",
-      "rekening": {
-        "bank": "bca",
-        "rekening": 64006
-      },
-      "keluar": {
-        "tipe": "resign",
-        "kategori": "",
-        "tanggalKeluar": "2059-08-16T01:32:05.026Z",
-        "kontrak": "pkwt1",
-        "tanggalPengajuan": "2008-09-22T03:20:04.120Z",
-        "keterangan": "aspernatur et repudiandae"
-      },
-      "mutasi": {
-        "tanggal": "2083-08-10T17:16:58.865Z",
-        "deskripsi": "impedit consectetur rerum"
-      },
-      "dataKeluarga": {
-        "kartuKeluarga": 45989,
-        "ibuKandung": "Rachel Lestari S.H.",
-        "pasangan": {
-          "nama": "Jindra Wijaya",
-          "ktp": 83523,
-          "tanggalLahir": "1978-08-06T20:28:10.713Z",
-          "temparLahir": "Tulungagung"
-        },
-        "jumlahAnak": 0,
-        "anak": []
-      },
-      "kontrak": [],
-      "npwp": "4d34f5f0-b0a5-4346-955c-65106f53c948",
-      "jenisKelamin": "k",
-      "tempatLahir": "Bulukumba",
-      "tanggalLahir": "1984-07-11T08:56:11.468Z",
-      "bpjs": {
-        "kesehatan": "todo",
-        "tenagaKerja": "todo"
-      },
-      "sim": "sim-a",
-      "kartuKeluarga": "cf1b7d46-4951-48ff-9cfa-8c396d5d13f4",
-      "umur": 42,
-      "agama": "kristen",
-      "divisi": "finance",
-      "jabatan": "staff",
-      "grade": "9",
-      "dateOfHiring": "1994-04-21T08:47:03.730Z",
-      "kontrakSebelumnya": "k",
-      "kontrakSekarang": "w"
-    },
-    {
-      "nik": 93291,
-      "status": "aktif",
-      "nama": "Bancar Narpati",
-      "perusahaan": "BEISHI",
-      "departement": "bussiness",
-      "pendidikan": "s2",
-      "jurusan": "hukum",
-      "tanggungan": "tidak aktif",
-      "tanggunganPajak": "K1",
-      "statusPernikahan": "tidak aktif",
-      "tanggalUpdateKK": "cerai",
-      "ktp": "248e7375-a470-4590-a0c4-0919131a869b",
-      "asalKtp": "jakarta",
-      "kategori": "ambunu",
-      "telepon": "+629457551611",
-      "teleponDarurat": "+629694317037",
-      "alamat": "Psr. Melba no 5 Apt. 276",
-      "rekening": {
-        "bank": "mandiri",
-        "rekening": 47229
-      },
-      "keluar": {
-        "tipe": "",
-        "kategori": "",
-        "tanggalKeluar": "2017-10-14T19:28:35.980Z",
-        "kontrak": "pkwt2",
-        "tanggalPengajuan": "2093-01-04T11:38:25.379Z",
-        "keterangan": "tenetur nihil similique"
-      },
-      "mutasi": {
-        "tanggal": "2076-02-12T12:54:13.875Z",
-        "deskripsi": "cupiditate maxime nobis"
-      },
-      "dataKeluarga": {
-        "kartuKeluarga": 33098,
-        "ibuKandung": "Kamaria Aryanti M.TI.",
-        "pasangan": {
-          "nama": "Elma Suartini",
-          "ktp": 69959,
-          "tanggalLahir": "1977-06-17T12:37:21.720Z",
-          "temparLahir": "Ngawi"
-        },
-        "jumlahAnak": 1,
-        "anak": []
-      },
-      "kontrak": [],
-      "npwp": "c1be6817-16c5-4dcb-b067-df18615c4289",
-      "jenisKelamin": "a",
-      "tempatLahir": "Subang",
-      "tanggalLahir": "2001-01-17T23:43:49.937Z",
-      "bpjs": {
-        "kesehatan": "todo",
-        "tenagaKerja": "todo"
-      },
-      "sim": "sim-a",
-      "kartuKeluarga": "23975dfe-5c1e-4bb4-97e8-5899139ac44a",
-      "umur": 30,
-      "agama": "hindu",
-      "divisi": "finance",
-      "jabatan": "translator",
-      "grade": "7",
-      "dateOfHiring": "2056-05-08T02:53:48.579Z",
+      "dateOfHiring": "2068-09-14T06:56:54.188Z",
       "kontrakSebelumnya": "1",
-      "kontrakSekarang": "1"
+      "kontrakSekarang": "t"
     }
   ]
 }
