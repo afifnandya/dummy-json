@@ -1,0 +1,3304 @@
+{
+  "karyawan": [
+    {
+      "nik": 27555,
+      "status": "tidak aktif",
+      "nama": "Sakura Azzahra",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "d3145e56-f979-4f5f-9698-d2a62e0cfbf6",
+      "asalKtp": "jakarta",
+      "kategori": "ambunu",
+      "telepon": "+622556561075",
+      "teleponDarurat": "+628567208750",
+      "alamat": "Dk. Lambert no 58 Suite 952",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 52480
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "personal",
+        "tanggalKeluar": "1996-08-29T12:19:01.365Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2045-03-08T00:51:11.142Z",
+        "keterangan": "voluptates itaque placeat"
+      },
+      "mutasi": {
+        "tanggal": "2031-02-19T10:22:29.627Z",
+        "deskripsi": "magni saepe provident"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 58519,
+        "ibuKandung": "Jane Nasyidah",
+        "pasangan": {
+          "nama": "Kasiyah Nasyiah",
+          "ktp": 45968,
+          "tanggalLahir": "1980-10-04T14:09:21.793Z",
+          "temparLahir": "Bangkalan"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "badf3ea2-c844-40b1-9bd5-b2889007273e",
+      "jenisKelamin": "l",
+      "tempatLahir": "Rembang",
+      "tanggalLahir": "1990-08-07T10:06:05.968Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "20373927-14ec-4f7d-ba82-0cc2c0a64d41",
+      "umur": 48,
+      "agama": "kristen",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "7",
+      "dateOfHiring": "2043-01-09T16:54:40.346Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 8959,
+      "status": "aktif",
+      "nama": "Putu Natsir",
+      "perusahaan": "BAOSHUO",
+      "departement": "logistic",
+      "pendidikan": "s2",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "6322e619-0760-4dea-a1b5-0c7a1aca41e9",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+623596257145",
+      "teleponDarurat": "+623783993018",
+      "alamat": "Dk. Dickinson no 9 Suite 366",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 28263
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "",
+        "tanggalKeluar": "2069-10-08T21:02:33.366Z",
+        "kontrak": "",
+        "tanggalPengajuan": "1991-06-15T23:22:29.173Z",
+        "keterangan": "culpa tenetur inventore"
+      },
+      "mutasi": {
+        "tanggal": "2067-05-30T23:09:46.103Z",
+        "deskripsi": "rerum fugit sequi"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 39170,
+        "ibuKandung": "Kamal Hermawan",
+        "pasangan": {
+          "nama": "Nabila Namaga S.IP",
+          "ktp": 21312,
+          "tanggalLahir": "1976-08-07T16:13:41.920Z",
+          "temparLahir": "Mungkid"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "8e85d92e-46db-4ba5-b0d9-fbfc8c1d26b9",
+      "jenisKelamin": "a",
+      "tempatLahir": "Singaraja",
+      "tanggalLahir": "1942-12-15T03:35:39.551Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "d7335a9c-47ef-4ad1-96de-f3df6ffa9c90",
+      "umur": 28,
+      "agama": "hindu",
+      "divisi": "hr",
+      "jabatan": "translator",
+      "grade": "9",
+      "dateOfHiring": "2064-11-02T19:16:50.305Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 92351,
+      "status": "tidak aktif",
+      "nama": "Radika Airlangga S.Pt",
+      "perusahaan": "BEISHI",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "d6870c9a-0e72-45c7-a4c0-f9284d46bb10",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+625504808375",
+      "teleponDarurat": "+626573425846",
+      "alamat": "Jr. Serena no 98 Apt. 913",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 22609
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2016-06-13T19:50:28.275Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2067-03-30T09:13:22.575Z",
+        "keterangan": "voluptatibus excepturi ex"
+      },
+      "mutasi": {
+        "tanggal": "2086-10-13T03:23:33.273Z",
+        "deskripsi": "illum sed eum"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 85611,
+        "ibuKandung": "Jinawi Firmansyah",
+        "pasangan": {
+          "nama": "Setya Rayhan",
+          "ktp": 79363,
+          "tanggalLahir": "1988-05-26T09:54:47.175Z",
+          "temparLahir": "Sumbawa Besar"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "4a727cfa-6555-48c8-8814-57f5c9e0d119",
+      "jenisKelamin": "k",
+      "tempatLahir": "Luwuk",
+      "tanggalLahir": "1949-06-06T22:06:07.042Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "84d7a7f7-68c2-4b41-9d2e-c41a7fdc51b8",
+      "umur": 34,
+      "agama": "islam",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "7",
+      "dateOfHiring": "2024-03-19T00:37:14.861Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 21384,
+      "status": "aktif",
+      "nama": "Ajiman Kusumo S.Psi",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "930c5243-c4a3-4589-bf65-2465f791eb49",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+623750586152",
+      "teleponDarurat": "+626424456442",
+      "alamat": "Ds. Satterfield no 2 Apt. 887",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 52219
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2008-06-02T11:16:04.487Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2044-11-27T15:21:35.001Z",
+        "keterangan": "error atque ducimus"
+      },
+      "mutasi": {
+        "tanggal": "2076-09-22T11:32:18.828Z",
+        "deskripsi": "officiis sunt dignissimos"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 95993,
+        "ibuKandung": "Umi Lestari",
+        "pasangan": {
+          "nama": "Usman Mustofa",
+          "ktp": 91288,
+          "tanggalLahir": "1999-03-06T11:55:03.072Z",
+          "temparLahir": "Polewali"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "412a21c1-0584-44e0-9536-6b096689737f",
+      "jenisKelamin": "-",
+      "tempatLahir": "Mamasa",
+      "tanggalLahir": "1960-05-09T09:34:04.276Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "2da0ce90-6ade-4e3c-bbfc-02704b0ae34d",
+      "umur": 53,
+      "agama": "islam",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "9",
+      "dateOfHiring": "2047-06-29T21:55:40.607Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 59566,
+      "status": "tidak aktif",
+      "nama": "Lestari Juwita",
+      "perusahaan": "BEISHI",
+      "departement": "ga",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "501d6c23-153e-4067-84c3-8ea24424e8ad",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+625151059953",
+      "teleponDarurat": "+627676104669",
+      "alamat": "Ki. Wunsch no 49 Apt. 700",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 18676
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2076-02-20T10:09:28.368Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2026-01-16T05:17:17.219Z",
+        "keterangan": "optio voluptates mollitia"
+      },
+      "mutasi": {
+        "tanggal": "2006-05-31T07:20:56.273Z",
+        "deskripsi": "aut facilis velit"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 93848,
+        "ibuKandung": "Caraka Megantara",
+        "pasangan": {
+          "nama": "Balamantri Habibi",
+          "ktp": 80834,
+          "tanggalLahir": "2003-06-11T00:31:03.584Z",
+          "temparLahir": "Wonosari"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "f708a411-63b3-4717-81f8-6cc184c62a2a",
+      "jenisKelamin": "a",
+      "tempatLahir": "Ratahan",
+      "tanggalLahir": "1997-10-29T07:50:43.004Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "9921fbfd-e276-40fc-b6b3-cfadabe722f2",
+      "umur": 54,
+      "agama": "islam",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "9",
+      "dateOfHiring": "2095-03-25T01:40:53.954Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 86301,
+      "status": "tidak aktif",
+      "nama": "Indah Suryatmi",
+      "perusahaan": "BAOSHUO",
+      "departement": "bussiness",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "346e48ec-bbcc-4f9f-8361-7f8cd57dd7b1",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+620505520896",
+      "teleponDarurat": "+621153931036",
+      "alamat": "Ds. Aimee no 7 Apt. 615",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 54748
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2023-11-25T19:11:32.434Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2011-06-20T02:12:26.048Z",
+        "keterangan": "veritatis deleniti corrupti"
+      },
+      "mutasi": {
+        "tanggal": "1995-05-17T10:33:45.966Z",
+        "deskripsi": "a ratione accusantium"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 35948,
+        "ibuKandung": "Harto Firmansyah",
+        "pasangan": {
+          "nama": "Sherly Utami S.Pd",
+          "ktp": 41806,
+          "tanggalLahir": "1985-07-26T22:46:57.714Z",
+          "temparLahir": "Polewali"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "cc9c3dde-bf96-46b4-98a8-bde80580f3b5",
+      "jenisKelamin": "r",
+      "tempatLahir": "Wonosobo",
+      "tanggalLahir": "1975-01-15T16:14:24.479Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "16ed70da-6eb1-4d19-9a09-1abf994a07f5",
+      "umur": 46,
+      "agama": "hindu",
+      "divisi": "translator",
+      "jabatan": "operator",
+      "grade": "9",
+      "dateOfHiring": "2005-10-15T18:45:13.228Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 46728,
+      "status": "tidak aktif",
+      "nama": "Galak Latupono S.Pd",
+      "perusahaan": "BAOSHUO",
+      "departement": "bussiness",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "3e2aa098-7816-4688-8b5d-24e416bc89a9",
+      "asalKtp": "malang",
+      "kategori": "nasional",
+      "telepon": "+623700058558",
+      "teleponDarurat": "+621130896875",
+      "alamat": "Jr. Xander no 35 Apt. 261",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 72195
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2094-03-20T04:03:23.816Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2064-05-08T21:32:02.265Z",
+        "keterangan": "ullam voluptatibus labore"
+      },
+      "mutasi": {
+        "tanggal": "2093-01-27T20:44:51.500Z",
+        "deskripsi": "blanditiis culpa quas"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 51762,
+        "ibuKandung": "Rama Napitupulu",
+        "pasangan": {
+          "nama": "Dwi Wibisono",
+          "ktp": 79133,
+          "tanggalLahir": "1995-06-30T01:37:48.106Z",
+          "temparLahir": "Sragen"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "dc1a310a-638d-449b-86b2-6d541e78be42",
+      "jenisKelamin": "l",
+      "tempatLahir": "Soreang",
+      "tanggalLahir": "1992-06-18T20:03:33.357Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "c443f9f7-6a49-45aa-b93d-613d4f401c10",
+      "umur": 34,
+      "agama": "islam",
+      "divisi": "driver",
+      "jabatan": "staff",
+      "grade": "9",
+      "dateOfHiring": "2049-05-21T14:49:08.033Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 51067,
+      "status": "aktif",
+      "nama": "Gawati Farida",
+      "perusahaan": "BAOSHUO",
+      "departement": "logistic",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "517eabfa-1dac-4d77-b192-de0603edea09",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+627968864480",
+      "teleponDarurat": "+623465682171",
+      "alamat": "Jln. Jamey no 06 Apt. 058",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 6778
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "personal",
+        "tanggalKeluar": "2049-08-16T09:41:02.671Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2034-10-14T21:14:04.146Z",
+        "keterangan": "minima nulla sint"
+      },
+      "mutasi": {
+        "tanggal": "1995-11-29T18:41:44.352Z",
+        "deskripsi": "rem ratione officia"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 91683,
+        "ibuKandung": "Jaga Kusumo",
+        "pasangan": {
+          "nama": "Okto Putra",
+          "ktp": 12616,
+          "tanggalLahir": "1980-09-02T14:57:29.428Z",
+          "temparLahir": "Tigaraksa"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "cd9aafd1-5610-497c-81fa-7f72ebbb1450",
+      "jenisKelamin": "l",
+      "tempatLahir": "Pacitan",
+      "tanggalLahir": "1942-05-27T06:05:19.301Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "7b9b2574-a530-437c-ad47-224ce7fa7807",
+      "umur": 59,
+      "agama": "islam",
+      "divisi": "translator",
+      "jabatan": "operator",
+      "grade": "7",
+      "dateOfHiring": "2043-10-22T18:45:23.601Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 70768,
+      "status": "tidak aktif",
+      "nama": "Kasiyah Riyanti",
+      "perusahaan": "BEISHI",
+      "departement": "finance",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "ac42afb4-39c1-4e65-813b-6d1adde3f554",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+622706848915",
+      "teleponDarurat": "+621226989560",
+      "alamat": "Psr. Harber no 85 Suite 120",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 18644
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2052-01-10T13:00:26.786Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2087-01-18T23:52:31.489Z",
+        "keterangan": "nemo velit blanditiis"
+      },
+      "mutasi": {
+        "tanggal": "2080-03-24T01:43:03.711Z",
+        "deskripsi": "porro similique tempore"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 84946,
+        "ibuKandung": "Lukman Purwadi",
+        "pasangan": {
+          "nama": "Wulan Hariyah",
+          "ktp": 64285,
+          "tanggalLahir": "1993-08-29T17:49:58.617Z",
+          "temparLahir": "Boroko"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "533d8349-4fe9-4a14-9449-a77dc0f8b4f8",
+      "jenisKelamin": "-",
+      "tempatLahir": "Purworejo",
+      "tanggalLahir": "1951-05-21T14:22:26.024Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "68024fc4-80b6-4127-9ac7-b5df234f27a5",
+      "umur": 60,
+      "agama": "hindu",
+      "divisi": "translator",
+      "jabatan": "operator",
+      "grade": "9",
+      "dateOfHiring": "2077-11-16T19:50:36.763Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 66025,
+      "status": "aktif",
+      "nama": "Cemani Adriansyah",
+      "perusahaan": "BEISHI",
+      "departement": "logistic",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "7061acf4-6b7a-4982-b684-74c984011670",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+620869261725",
+      "teleponDarurat": "+622845553986",
+      "alamat": "Ki. Natalia no 9 Suite 015",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 86677
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2052-12-05T01:15:18.076Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2097-07-29T17:44:51.933Z",
+        "keterangan": "vel maiores excepturi"
+      },
+      "mutasi": {
+        "tanggal": "2001-06-08T09:02:40.225Z",
+        "deskripsi": "ducimus iusto deserunt"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 99096,
+        "ibuKandung": "Jasmani Uwais",
+        "pasangan": {
+          "nama": "Maryadi Nainggolan",
+          "ktp": 41965,
+          "tanggalLahir": "1991-05-19T12:16:52.540Z",
+          "temparLahir": "Tegal"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "408e445d-4aeb-424c-b719-47830bb384c9",
+      "jenisKelamin": "r",
+      "tempatLahir": "Tulungagung",
+      "tanggalLahir": "1944-08-12T13:01:45.215Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "9f275e61-2f58-4692-b595-803780a01de0",
+      "umur": 44,
+      "agama": "kristen",
+      "divisi": "finance",
+      "jabatan": "staff",
+      "grade": "9",
+      "dateOfHiring": "2068-05-26T09:24:18.638Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 14813,
+      "status": "aktif",
+      "nama": "Kemal Rendra",
+      "perusahaan": "BEISHI",
+      "departement": "logistic",
+      "pendidikan": "s1",
+      "jurusan": "pajak",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "0c5f7cf4-fead-4a1f-ba7e-84928662f8dd",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+623484313712",
+      "teleponDarurat": "+627900200927",
+      "alamat": "Jln. Idell no 61 Apt. 430",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 67076
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2087-05-03T22:09:10.632Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2033-11-25T10:49:42.818Z",
+        "keterangan": "dolore iure odit"
+      },
+      "mutasi": {
+        "tanggal": "2017-06-16T12:15:43.222Z",
+        "deskripsi": "minima nesciunt ea"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 50033,
+        "ibuKandung": "Safina Zulaika",
+        "pasangan": {
+          "nama": "Nadia Nurdiyanti",
+          "ktp": 78040,
+          "tanggalLahir": "1998-01-03T15:03:08.813Z",
+          "temparLahir": "Pemalang"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "a30450e6-d047-4fb0-b434-47efe506cea4",
+      "jenisKelamin": "-",
+      "tempatLahir": "Sleman",
+      "tanggalLahir": "1963-09-05T09:22:18.194Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "0e9f3b0a-f701-4cab-8254-cb22157a8377",
+      "umur": 29,
+      "agama": "hindu",
+      "divisi": "translator",
+      "jabatan": "staff",
+      "grade": "10",
+      "dateOfHiring": "2057-08-02T03:37:18.881Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 75495,
+      "status": "tidak aktif",
+      "nama": "Oliva Riyanti",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "a69562f6-fc9c-4ed9-a389-a010b697d146",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+629585782972",
+      "teleponDarurat": "+625435271773",
+      "alamat": "Ki. Parker no 9 Apt. 568",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 52760
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2038-09-15T05:29:25.543Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2048-05-21T23:30:27.783Z",
+        "keterangan": "nesciunt possimus alias"
+      },
+      "mutasi": {
+        "tanggal": "2016-10-23T00:40:27.728Z",
+        "deskripsi": "officiis id ducimus"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 55099,
+        "ibuKandung": "Luis Natsir",
+        "pasangan": {
+          "nama": "Lembah Najmudin",
+          "ktp": 43296,
+          "tanggalLahir": "1949-04-05T17:18:20.393Z",
+          "temparLahir": "Probolinggo"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "14af3c48-8d27-41ab-ae55-d546784d3340",
+      "jenisKelamin": "k",
+      "tempatLahir": "Poso",
+      "tanggalLahir": "2000-07-24T13:49:13.548Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "0db96612-0787-4ad2-af90-e7b6c69368b9",
+      "umur": 49,
+      "agama": "hindu",
+      "divisi": "finance",
+      "jabatan": "staff",
+      "grade": "10",
+      "dateOfHiring": "2027-02-13T21:40:27.888Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 89025,
+      "status": "tidak aktif",
+      "nama": "Keisha Purnama",
+      "perusahaan": "BEISHI",
+      "departement": "ga",
+      "pendidikan": "s1",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "a2ea5c6f-3408-4a15-89be-8423d105df3a",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+628145841256",
+      "teleponDarurat": "+629217911238",
+      "alamat": "Ki. Victor no 0 Suite 537",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 42005
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "personal",
+        "tanggalKeluar": "2010-06-13T19:02:46.741Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2004-05-16T06:06:57.430Z",
+        "keterangan": "quos placeat reprehenderit"
+      },
+      "mutasi": {
+        "tanggal": "2002-06-27T03:24:47.869Z",
+        "deskripsi": "molestiae reiciendis id"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 85848,
+        "ibuKandung": "Reksa Mahardika S.Pt",
+        "pasangan": {
+          "nama": "Gadis Afifah",
+          "ktp": 5116,
+          "tanggalLahir": "1976-11-25T16:13:50.402Z",
+          "temparLahir": "Bojonegoro"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "99e85455-77bc-4515-8c35-4824292a3fd4",
+      "jenisKelamin": "i",
+      "tempatLahir": "Cilacap",
+      "tanggalLahir": "1942-11-15T18:54:42.714Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "d75e4fa5-aa53-4626-9faa-752255f7e33c",
+      "umur": 37,
+      "agama": "islam",
+      "divisi": "finance",
+      "jabatan": "operator",
+      "grade": "9",
+      "dateOfHiring": "2058-06-04T21:33:47.791Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 47886,
+      "status": "aktif",
+      "nama": "Darmanto Hidayat",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "4e962d41-e93f-4a89-8c0e-0f8007f46c99",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+627629968637",
+      "teleponDarurat": "+622539352609",
+      "alamat": "Dk. Romaine no 3 Apt. 155",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 68305
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "personal",
+        "tanggalKeluar": "2074-11-04T11:38:06.886Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2045-05-21T10:01:11.938Z",
+        "keterangan": "odit accusamus harum"
+      },
+      "mutasi": {
+        "tanggal": "2081-08-29T04:16:08.564Z",
+        "deskripsi": "nobis repudiandae amet"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 22250,
+        "ibuKandung": "Hardana Yudhistira",
+        "pasangan": {
+          "nama": "Sasha Mandasari",
+          "ktp": 7637,
+          "tanggalLahir": "1967-07-15T04:26:37.270Z",
+          "temparLahir": "Sleman"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "58d9d370-3112-44d9-a7c2-05f604fa40d2",
+      "jenisKelamin": "k",
+      "tempatLahir": "Tangerang",
+      "tanggalLahir": "1979-04-19T22:23:07.341Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "82c722f7-bed1-4276-9b38-a4a995398ac1",
+      "umur": 40,
+      "agama": "hindu",
+      "divisi": "translator",
+      "jabatan": "staff",
+      "grade": "10",
+      "dateOfHiring": "2096-11-24T04:11:55.472Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 24642,
+      "status": "aktif",
+      "nama": "Prabu Pradana",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "339d4323-77bd-4107-b5c3-848944c2c0a5",
+      "asalKtp": "jakarta",
+      "kategori": "ambunu",
+      "telepon": "+622399572678",
+      "teleponDarurat": "+621395148403",
+      "alamat": "Jln. White no 2 Suite 805",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 20064
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "personal",
+        "tanggalKeluar": "2018-05-09T05:37:07.601Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2011-02-27T12:23:51.601Z",
+        "keterangan": "quo sed earum"
+      },
+      "mutasi": {
+        "tanggal": "1994-01-05T00:30:53.109Z",
+        "deskripsi": "magni ducimus aliquid"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 86641,
+        "ibuKandung": "Suci Suryatmi",
+        "pasangan": {
+          "nama": "Umay Simbolon",
+          "ktp": 90796,
+          "tanggalLahir": "1981-06-06T13:31:41.355Z",
+          "temparLahir": "Kwandang"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "f2d474ce-c3f7-48c4-8c80-2642721ddf62",
+      "jenisKelamin": "i",
+      "tempatLahir": "Wonogiri",
+      "tanggalLahir": "1980-12-02T11:37:40.027Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "cb40b597-6a52-44ed-8060-655231a71e70",
+      "umur": 47,
+      "agama": "kristen",
+      "divisi": "finance",
+      "jabatan": "translator",
+      "grade": "6A",
+      "dateOfHiring": "2077-03-04T22:05:24.834Z",
+      "kontrakSebelumnya": "k",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 9011,
+      "status": "aktif",
+      "nama": "Sabrina Ramadhani",
+      "perusahaan": "BEISHI",
+      "departement": "logistic",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "4707b9aa-b414-4781-81e9-8a327cbbba99",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+625055261455",
+      "teleponDarurat": "+621452829886",
+      "alamat": "Ds. Fritsch no 8 Suite 323",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 88744
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "personal",
+        "tanggalKeluar": "2094-05-29T17:46:52.013Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2071-06-01T21:32:56.681Z",
+        "keterangan": "assumenda rem libero"
+      },
+      "mutasi": {
+        "tanggal": "2049-06-20T09:56:12.937Z",
+        "deskripsi": "eveniet vero et"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 46321,
+        "ibuKandung": "Rahayu Wahyuni S.I.Kom",
+        "pasangan": {
+          "nama": "Zalindra Pudjiastuti",
+          "ktp": 23244,
+          "tanggalLahir": "1975-09-11T06:56:27.049Z",
+          "temparLahir": "Caruban"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "0b487b4c-8f90-45d9-bae4-b3291c84ec7a",
+      "jenisKelamin": "-",
+      "tempatLahir": "Raba",
+      "tanggalLahir": "1947-09-25T21:58:24.613Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "4e869400-f6b3-43f7-80ab-9032b7ec375b",
+      "umur": 57,
+      "agama": "hindu",
+      "divisi": "driver",
+      "jabatan": "translator",
+      "grade": "7",
+      "dateOfHiring": "2069-09-18T17:37:01.411Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 45030,
+      "status": "aktif",
+      "nama": "Artanto Maheswara",
+      "perusahaan": "BAOSHUO",
+      "departement": "logistic",
+      "pendidikan": "s2",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "a119eea0-37a1-4647-b95a-0dbf8324894b",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+625156038550",
+      "teleponDarurat": "+629835531235",
+      "alamat": "Dk. Langworth no 17 Suite 956",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 23479
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2027-04-18T22:52:17.926Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2052-12-09T07:05:09.592Z",
+        "keterangan": "qui totam nam"
+      },
+      "mutasi": {
+        "tanggal": "2032-04-18T13:04:55.661Z",
+        "deskripsi": "labore ducimus veniam"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 39575,
+        "ibuKandung": "Mursita Latupono",
+        "pasangan": {
+          "nama": "Laksana Damanik",
+          "ktp": 57267,
+          "tanggalLahir": "1999-09-26T08:32:31.670Z",
+          "temparLahir": "Dompu"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "d6edb324-b360-46a2-b599-561e96ca7154",
+      "jenisKelamin": "i",
+      "tempatLahir": "Trenggalek",
+      "tanggalLahir": "1974-04-03T08:24:10.803Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "7307ce41-5480-494e-adfb-98dac1fe82c3",
+      "umur": 51,
+      "agama": "hindu",
+      "divisi": "driver",
+      "jabatan": "translator",
+      "grade": "6A",
+      "dateOfHiring": "2005-01-10T20:22:13.457Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 10649,
+      "status": "aktif",
+      "nama": "Baktianto Darmawan",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "959f7e5b-2e4c-4ab4-81fe-1dd50028a77c",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+620060771516",
+      "teleponDarurat": "+624856424984",
+      "alamat": "Gg. Martina no 69 Apt. 205",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 68497
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2093-11-25T11:17:26.918Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2054-11-23T08:32:45.136Z",
+        "keterangan": "nisi eveniet dignissimos"
+      },
+      "mutasi": {
+        "tanggal": "2028-10-26T10:49:20.036Z",
+        "deskripsi": "officiis atque cupiditate"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 54640,
+        "ibuKandung": "Agustina Agustina",
+        "pasangan": {
+          "nama": "Timbul Nashiruddin",
+          "ktp": 67923,
+          "tanggalLahir": "1966-07-27T00:01:38.619Z",
+          "temparLahir": "Benteng"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "0b43f5e6-cdfd-43ed-a2be-7f29bdf96c0b",
+      "jenisKelamin": "i",
+      "tempatLahir": "Tegal",
+      "tanggalLahir": "2000-08-24T08:15:40.656Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "4df3388a-6244-4bf7-893f-56e35db85585",
+      "umur": 37,
+      "agama": "kristen",
+      "divisi": "translator",
+      "jabatan": "operator",
+      "grade": "6A",
+      "dateOfHiring": "1993-01-26T05:55:51.353Z",
+      "kontrakSebelumnya": "k",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 46567,
+      "status": "tidak aktif",
+      "nama": "Shania Putri",
+      "perusahaan": "BEISHI",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "345aa00b-97bb-4b6a-a557-2f8bf6b67fd0",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+626306527185",
+      "teleponDarurat": "+627297445453",
+      "alamat": "Psr. Josh no 68 Suite 573",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 51190
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "personal",
+        "tanggalKeluar": "2004-06-28T13:08:35.445Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2014-02-04T23:17:16.570Z",
+        "keterangan": "ullam illo ullam"
+      },
+      "mutasi": {
+        "tanggal": "2061-03-26T17:02:13.524Z",
+        "deskripsi": "alias laborum recusandae"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 78106,
+        "ibuKandung": "Tina Haryanti",
+        "pasangan": {
+          "nama": "Ade Handoko S.E.",
+          "ktp": 88115,
+          "tanggalLahir": "1999-10-19T00:14:10.729Z",
+          "temparLahir": "Marisa"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "9244620f-6c1d-4cd7-a096-edef5bc91e82",
+      "jenisKelamin": "l",
+      "tempatLahir": "Sengkang",
+      "tanggalLahir": "1954-04-29T19:21:01.946Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "2202ccf4-6ab2-445e-be3f-429d728fb22c",
+      "umur": 38,
+      "agama": "hindu",
+      "divisi": "finance",
+      "jabatan": "operator",
+      "grade": "6A",
+      "dateOfHiring": "2052-09-19T12:34:28.011Z",
+      "kontrakSebelumnya": "k",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 97323,
+      "status": "aktif",
+      "nama": "Elon Maulana",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "1f3e65ae-a014-4968-8a96-9d50e8ab662e",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+620226275378",
+      "teleponDarurat": "+624760255477",
+      "alamat": "Ds. Nader no 58 Suite 075",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 25507
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2025-04-24T05:44:21.481Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2077-01-08T15:14:18.638Z",
+        "keterangan": "iste magni repellat"
+      },
+      "mutasi": {
+        "tanggal": "2008-02-07T07:05:56.427Z",
+        "deskripsi": "optio sit sapiente"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 66504,
+        "ibuKandung": "Nilam Rachmawati S.Pd",
+        "pasangan": {
+          "nama": "Rosalina Kuswandari",
+          "ktp": 21506,
+          "tanggalLahir": "1957-07-20T01:34:54.639Z",
+          "temparLahir": "Klaten"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "17545a8b-9e1b-48fd-805a-a31bca57752e",
+      "jenisKelamin": "l",
+      "tempatLahir": "Maros",
+      "tanggalLahir": "1997-03-29T11:17:38.590Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "013ac240-4752-48c5-bb9e-1ae5514aa2fe",
+      "umur": 47,
+      "agama": "islam",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "9",
+      "dateOfHiring": "2084-04-14T23:56:56.698Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 60917,
+      "status": "aktif",
+      "nama": "Paris Azzahra",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s2",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "becdb01a-24d0-4551-bb4c-0060e1179669",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+629762586911",
+      "teleponDarurat": "+620071234180",
+      "alamat": "Gg. Lester no 50 Apt. 768",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 95881
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "personal",
+        "tanggalKeluar": "2013-08-05T14:32:58.501Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2050-12-21T05:41:56.498Z",
+        "keterangan": "magnam quasi aliquid"
+      },
+      "mutasi": {
+        "tanggal": "2072-03-17T19:25:12.298Z",
+        "deskripsi": "molestiae quae illo"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 47310,
+        "ibuKandung": "Umar Simanjuntak",
+        "pasangan": {
+          "nama": "Puspa Fathina",
+          "ktp": 65882,
+          "tanggalLahir": "2001-10-28T00:29:56.613Z",
+          "temparLahir": "Majene"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "92520129-b290-406b-892f-6d884fa63fdd",
+      "jenisKelamin": "l",
+      "tempatLahir": "Wanggudu",
+      "tanggalLahir": "1966-05-10T16:21:38.875Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "3b8723c2-f72b-4dc4-a457-6da6da522885",
+      "umur": 29,
+      "agama": "hindu",
+      "divisi": "driver",
+      "jabatan": "operator",
+      "grade": "7",
+      "dateOfHiring": "2017-01-18T14:50:59.273Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 4902,
+      "status": "aktif",
+      "nama": "Olga Kurniawan",
+      "perusahaan": "BEISHI",
+      "departement": "ga",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "7f8ed90d-2c78-4583-abc1-5d6398a02c7e",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+621636474493",
+      "teleponDarurat": "+627707477973",
+      "alamat": "Jln. Onie no 4 Apt. 591",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 71885
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2031-08-06T19:10:24.439Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2047-04-23T14:09:32.607Z",
+        "keterangan": "nobis ut debitis"
+      },
+      "mutasi": {
+        "tanggal": "2041-08-29T06:40:34.356Z",
+        "deskripsi": "optio deserunt incidunt"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 157,
+        "ibuKandung": "Dwi Hassanah",
+        "pasangan": {
+          "nama": "Luwar Hardiansyah",
+          "ktp": 37163,
+          "tanggalLahir": "2001-09-16T23:36:03.168Z",
+          "temparLahir": "Malang"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "08b86087-b788-477e-8b49-4163083a3065",
+      "jenisKelamin": "-",
+      "tempatLahir": "Parigi",
+      "tanggalLahir": "1978-12-24T18:36:50.495Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "eff32070-7906-4d76-b4dc-34ad1660ae86",
+      "umur": 41,
+      "agama": "hindu",
+      "divisi": "hr",
+      "jabatan": "translator",
+      "grade": "10",
+      "dateOfHiring": "2045-12-03T20:29:18.270Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 24762,
+      "status": "aktif",
+      "nama": "Retno Handayani",
+      "perusahaan": "BEISHI",
+      "departement": "bussiness",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "f835a50e-cd28-48ac-af2b-e02112a98122",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+628791277454",
+      "teleponDarurat": "+622160947684",
+      "alamat": "Gg. Lauretta no 0 Apt. 696",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 67739
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2028-08-01T02:00:26.323Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2036-02-03T01:35:27.768Z",
+        "keterangan": "aliquam architecto laboriosam"
+      },
+      "mutasi": {
+        "tanggal": "2059-12-27T11:19:04.762Z",
+        "deskripsi": "odit sequi beatae"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 76360,
+        "ibuKandung": "Tami Kahyang",
+        "pasangan": {
+          "nama": "Wani Aurelia",
+          "ktp": 60557,
+          "tanggalLahir": "1963-11-25T22:26:15.859Z",
+          "temparLahir": "Kendari"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "6d6fddbf-9648-46bb-bff8-f04bda18ef0f",
+      "jenisKelamin": "l",
+      "tempatLahir": "Gorontalo",
+      "tanggalLahir": "1955-12-08T09:18:21.967Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "ef6d1843-55e0-42b3-9197-01e50f62824e",
+      "umur": 33,
+      "agama": "islam",
+      "divisi": "driver",
+      "jabatan": "translator",
+      "grade": "7",
+      "dateOfHiring": "2029-12-24T03:05:18.027Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 44528,
+      "status": "aktif",
+      "nama": "Sadina Nathania",
+      "perusahaan": "BEISHI",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "c2633d49-cfd1-4553-9c38-328aebdefa7d",
+      "asalKtp": "malang",
+      "kategori": "nasional",
+      "telepon": "+628453950452",
+      "teleponDarurat": "+620250371090",
+      "alamat": "Gg. Isabell no 46 Apt. 883",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 40540
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "personal",
+        "tanggalKeluar": "2064-04-17T22:36:52.277Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2052-10-06T07:58:20.676Z",
+        "keterangan": "beatae vitae odit"
+      },
+      "mutasi": {
+        "tanggal": "2077-04-22T20:18:03.216Z",
+        "deskripsi": "at nemo facilis"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 42777,
+        "ibuKandung": "Elisa Padmasari",
+        "pasangan": {
+          "nama": "Lidya Afifah",
+          "ktp": 91680,
+          "tanggalLahir": "2000-04-21T02:13:29.002Z",
+          "temparLahir": "Boroko"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "3fc1bd56-9069-408f-bc00-bbe9b08c226c",
+      "jenisKelamin": "a",
+      "tempatLahir": "Sunggu Minasa",
+      "tanggalLahir": "1973-12-12T20:02:18.111Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "dfafcc0d-60af-475f-98dd-5fcd40545168",
+      "umur": 29,
+      "agama": "kristen",
+      "divisi": "hr",
+      "jabatan": "translator",
+      "grade": "7",
+      "dateOfHiring": "2054-10-24T08:50:21.763Z",
+      "kontrakSebelumnya": "k",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 35141,
+      "status": "tidak aktif",
+      "nama": "Melinda Handayani",
+      "perusahaan": "BEISHI",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "fad527ab-00a4-40f4-9c3b-0f43780a788d",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+627976138727",
+      "teleponDarurat": "+629637720114",
+      "alamat": "Psr. Koss no 1 Apt. 113",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 96514
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "personal",
+        "tanggalKeluar": "2034-07-26T14:23:51.795Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2026-07-12T03:34:23.495Z",
+        "keterangan": "quo quae suscipit"
+      },
+      "mutasi": {
+        "tanggal": "2003-04-10T09:34:13.743Z",
+        "deskripsi": "perferendis aspernatur odit"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 73359,
+        "ibuKandung": "Nalar Sirait",
+        "pasangan": {
+          "nama": "Citra Azizah",
+          "ktp": 97809,
+          "tanggalLahir": "1953-01-24T13:52:59.255Z",
+          "temparLahir": "Lumajang"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "f0e21601-d39b-4e18-9998-76f1899f694d",
+      "jenisKelamin": "r",
+      "tempatLahir": "Jeneponto",
+      "tanggalLahir": "1951-11-21T13:17:35.694Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "c2ab4489-bccf-40fd-99fe-537754d3255f",
+      "umur": 28,
+      "agama": "islam",
+      "divisi": "finance",
+      "jabatan": "operator",
+      "grade": "10",
+      "dateOfHiring": "2098-05-02T01:37:40.593Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "k"
+    },
+    {
+      "nik": 96304,
+      "status": "tidak aktif",
+      "nama": "Aurora Ningrum",
+      "perusahaan": "BEISHI",
+      "departement": "bussiness",
+      "pendidikan": "s2",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "c0cca002-46cf-468d-ab44-780f2aca1eda",
+      "asalKtp": "malang",
+      "kategori": "nasional",
+      "telepon": "+624459553646",
+      "teleponDarurat": "+622447114741",
+      "alamat": "Dk. Lang no 4 Suite 965",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 93741
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2061-04-25T11:49:31.149Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "1993-02-22T23:23:14.831Z",
+        "keterangan": "iusto fuga exercitationem"
+      },
+      "mutasi": {
+        "tanggal": "1995-03-09T22:42:49.433Z",
+        "deskripsi": "accusamus ipsam excepturi"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 84009,
+        "ibuKandung": "Ajiman Napitupulu",
+        "pasangan": {
+          "nama": "Viman Sitorus",
+          "ktp": 91499,
+          "tanggalLahir": "1980-02-17T09:11:08.385Z",
+          "temparLahir": "Takalar"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "301e016b-e260-41f5-ba8e-1ef079a05962",
+      "jenisKelamin": "i",
+      "tempatLahir": "Bangil",
+      "tanggalLahir": "1993-02-24T10:08:06.355Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "6f06eb80-6fba-4827-aa96-c5eeb5e5f11d",
+      "umur": 51,
+      "agama": "hindu",
+      "divisi": "translator",
+      "jabatan": "operator",
+      "grade": "9",
+      "dateOfHiring": "2082-10-22T12:36:56.945Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 47965,
+      "status": "aktif",
+      "nama": "Hani Harini",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "79aaf1a9-96b6-41e8-9733-eecedbbe0fce",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+620305158865",
+      "teleponDarurat": "+625075816413",
+      "alamat": "Kpg. Cara no 8 Suite 116",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 84904
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "personal",
+        "tanggalKeluar": "2042-01-05T18:09:19.879Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2061-03-05T02:39:07.456Z",
+        "keterangan": "corporis necessitatibus aspernatur"
+      },
+      "mutasi": {
+        "tanggal": "2084-05-03T09:47:28.718Z",
+        "deskripsi": "ducimus rem accusantium"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 29083,
+        "ibuKandung": "Cemani Wibisono",
+        "pasangan": {
+          "nama": "Saiful Putra",
+          "ktp": 84773,
+          "tanggalLahir": "1997-07-14T11:42:45.910Z",
+          "temparLahir": "Magelang"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "4bbb66f2-376b-4add-8c55-491b5cefe2c7",
+      "jenisKelamin": "a",
+      "tempatLahir": "Demak",
+      "tanggalLahir": "1964-05-25T13:52:40.417Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "1ba7ca20-b70b-4c9e-9f16-afe0b3755bd3",
+      "umur": 40,
+      "agama": "hindu",
+      "divisi": "finance",
+      "jabatan": "staff",
+      "grade": "6A",
+      "dateOfHiring": "2033-02-13T08:05:52.622Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 84032,
+      "status": "aktif",
+      "nama": "Novi Harini",
+      "perusahaan": "BAOSHUO",
+      "departement": "logistic",
+      "pendidikan": "s2",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "9263adc7-65c2-4a2e-ba9d-95d35f6435c0",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+628401907268",
+      "teleponDarurat": "+623685571090",
+      "alamat": "Dk. Koch no 88 Apt. 761",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 10426
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2029-06-28T06:52:42.393Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2076-05-13T10:28:14.205Z",
+        "keterangan": "sequi recusandae architecto"
+      },
+      "mutasi": {
+        "tanggal": "2008-09-07T23:47:27.954Z",
+        "deskripsi": "laborum soluta consectetur"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 87306,
+        "ibuKandung": "Umaya Januar",
+        "pasangan": {
+          "nama": "Cemani Firmansyah",
+          "ktp": 58829,
+          "tanggalLahir": "1977-05-17T11:18:22.747Z",
+          "temparLahir": "Unaaha"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "cf753e84-0731-4ce4-a985-1461b245405a",
+      "jenisKelamin": "a",
+      "tempatLahir": "Ambarawa",
+      "tanggalLahir": "1942-08-04T22:56:37.542Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "dc47f0a7-42b6-4de7-bcf4-8adccfdcc75b",
+      "umur": 32,
+      "agama": "islam",
+      "divisi": "driver",
+      "jabatan": "translator",
+      "grade": "7",
+      "dateOfHiring": "2040-06-15T10:43:24.785Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 46220,
+      "status": "aktif",
+      "nama": "Luwes Yulianto",
+      "perusahaan": "BEISHI",
+      "departement": "finance",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "9ed93f23-622a-4259-a577-ec8baedc5e6d",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+620633065835",
+      "teleponDarurat": "+626233916595",
+      "alamat": "Ds. Quinton no 76 Suite 169",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 60315
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2030-11-20T07:53:01.726Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2020-02-01T02:34:52.598Z",
+        "keterangan": "beatae enim animi"
+      },
+      "mutasi": {
+        "tanggal": "1993-03-04T13:47:43.935Z",
+        "deskripsi": "eius molestiae dignissimos"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 16864,
+        "ibuKandung": "Laksana Halim",
+        "pasangan": {
+          "nama": "Nimas Hariyah",
+          "ktp": 68320,
+          "tanggalLahir": "1968-12-29T02:10:01.203Z",
+          "temparLahir": "Pasangkayu"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "f9fcb52a-5199-4a04-9221-e62ef78542f4",
+      "jenisKelamin": "i",
+      "tempatLahir": "Barru",
+      "tanggalLahir": "1993-09-17T09:02:16.153Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "914fd048-6aac-43c0-be07-531ae2934029",
+      "umur": 40,
+      "agama": "islam",
+      "divisi": "hr",
+      "jabatan": "translator",
+      "grade": "9",
+      "dateOfHiring": "2097-12-09T20:19:32.549Z",
+      "kontrakSebelumnya": "k",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 29982,
+      "status": "tidak aktif",
+      "nama": "Taufik Nainggolan",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "6159305c-470e-4bdf-9063-1fef5a731a88",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+623435092021",
+      "teleponDarurat": "+621372006443",
+      "alamat": "Kpg. Xavier no 85 Suite 267",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 51424
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "1995-10-04T14:38:05.298Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2013-06-24T10:07:40.609Z",
+        "keterangan": "cupiditate pariatur saepe"
+      },
+      "mutasi": {
+        "tanggal": "2050-03-22T23:51:17.265Z",
+        "deskripsi": "blanditiis maxime numquam"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 67762,
+        "ibuKandung": "Endah Mustika",
+        "pasangan": {
+          "nama": "Aisyah Prastuti M.Kom.",
+          "ktp": 60408,
+          "tanggalLahir": "1971-10-26T04:34:48.282Z",
+          "temparLahir": "Airmadidi"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "b0dcb4fc-333e-49ea-b4ba-3cb6a308eeab",
+      "jenisKelamin": "k",
+      "tempatLahir": "Kraksaan",
+      "tanggalLahir": "2001-11-22T01:09:48.363Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "e74e81fe-eba2-40f6-a9f5-f21884aeff3f",
+      "umur": 36,
+      "agama": "hindu",
+      "divisi": "finance",
+      "jabatan": "operator",
+      "grade": "6A",
+      "dateOfHiring": "2036-08-03T00:24:49.962Z",
+      "kontrakSebelumnya": "k",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 78229,
+      "status": "tidak aktif",
+      "nama": "Zelda Laksmiwati",
+      "perusahaan": "BEISHI",
+      "departement": "ga",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "59310571-ce28-461c-bd89-24f4073e2849",
+      "asalKtp": "malang",
+      "kategori": "nasional",
+      "telepon": "+622198854589",
+      "teleponDarurat": "+627366143722",
+      "alamat": "Ds. Lucious no 59 Apt. 985",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 95675
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2055-09-12T13:06:57.786Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2050-05-06T14:04:58.117Z",
+        "keterangan": "totam rerum suscipit"
+      },
+      "mutasi": {
+        "tanggal": "2082-07-29T10:21:49.908Z",
+        "deskripsi": "consequuntur voluptates dolor"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 10615,
+        "ibuKandung": "Wakiman Ramadan",
+        "pasangan": {
+          "nama": "Shakila Kuswandari",
+          "ktp": 66590,
+          "tanggalLahir": "1985-04-06T17:36:33.625Z",
+          "temparLahir": "Rembang"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "2d91abd0-d765-4101-a1bd-be2abd60380e",
+      "jenisKelamin": "a",
+      "tempatLahir": "Sengkang",
+      "tanggalLahir": "1994-06-27T22:42:49.851Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "3cb9eaf3-0f85-4094-8e46-46320b69a8a9",
+      "umur": 55,
+      "agama": "kristen",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "9",
+      "dateOfHiring": "2091-11-03T09:01:00.473Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 95810,
+      "status": "tidak aktif",
+      "nama": "Ilsa Salsabilla",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "efc60703-b491-40af-9f31-ac451aad562f",
+      "asalKtp": "malang",
+      "kategori": "nasional",
+      "telepon": "+621282790635",
+      "teleponDarurat": "+627275333076",
+      "alamat": "Psr. Fletcher no 07 Apt. 749",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 23068
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2089-11-08T01:25:57.076Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2037-11-06T13:38:32.402Z",
+        "keterangan": "illum cupiditate nam"
+      },
+      "mutasi": {
+        "tanggal": "2076-11-19T20:27:50.232Z",
+        "deskripsi": "accusantium consectetur blanditiis"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 55189,
+        "ibuKandung": "Ozy Najmudin",
+        "pasangan": {
+          "nama": "Diana Azzahra S.Pd",
+          "ktp": 31379,
+          "tanggalLahir": "1947-08-23T21:22:03.564Z",
+          "temparLahir": "Cibinong"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "ad6762ee-bac1-45f0-bf03-71020f65c903",
+      "jenisKelamin": "a",
+      "tempatLahir": "Buranga",
+      "tanggalLahir": "1944-05-11T22:55:33.604Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "cfb2fa19-3ead-48ea-b37a-c033034a92c7",
+      "umur": 42,
+      "agama": "islam",
+      "divisi": "translator",
+      "jabatan": "translator",
+      "grade": "6A",
+      "dateOfHiring": "2066-01-15T03:37:13.024Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 3971,
+      "status": "tidak aktif",
+      "nama": "Shania Agustina",
+      "perusahaan": "BEISHI",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "b851e40b-46ba-4632-8197-35aad5f3e45f",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+624690144840",
+      "teleponDarurat": "+621282316282",
+      "alamat": "Ds. Boehm no 1 Apt. 607",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 85965
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2057-02-18T03:13:24.202Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2065-11-24T01:37:49.361Z",
+        "keterangan": "ea facilis delectus"
+      },
+      "mutasi": {
+        "tanggal": "2092-10-06T05:59:33.742Z",
+        "deskripsi": "ducimus earum quidem"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 93444,
+        "ibuKandung": "Pandu Oktovian",
+        "pasangan": {
+          "nama": "Tri Zulaika",
+          "ktp": 50330,
+          "tanggalLahir": "1946-02-09T00:32:15.831Z",
+          "temparLahir": "Probolinggo"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "31478058-2c7c-407c-94c1-aaee12d72c09",
+      "jenisKelamin": "a",
+      "tempatLahir": "Sengkang",
+      "tanggalLahir": "1955-12-28T13:15:38.256Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "ab8aa0e5-5b07-4d75-a45e-37edfa7b63ce",
+      "umur": 55,
+      "agama": "hindu",
+      "divisi": "translator",
+      "jabatan": "operator",
+      "grade": "7",
+      "dateOfHiring": "2042-10-31T20:56:40.999Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "k"
+    },
+    {
+      "nik": 88027,
+      "status": "aktif",
+      "nama": "Muhammad Santoso",
+      "perusahaan": "BEISHI",
+      "departement": "finance",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "0bee4d4b-efda-4afd-8fda-5d60ba11e370",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+620308711901",
+      "teleponDarurat": "+621818089141",
+      "alamat": "Gg. Clifton no 67 Apt. 213",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 5235
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "",
+        "tanggalKeluar": "2089-07-04T09:38:41.395Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2033-09-04T06:43:36.478Z",
+        "keterangan": "culpa impedit aspernatur"
+      },
+      "mutasi": {
+        "tanggal": "2019-01-21T19:12:58.276Z",
+        "deskripsi": "architecto qui aut"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 92194,
+        "ibuKandung": "Banawi Nugroho",
+        "pasangan": {
+          "nama": "Kirana Hasanah",
+          "ktp": 99377,
+          "tanggalLahir": "1977-03-30T04:30:54.223Z",
+          "temparLahir": "Cikampek"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "73c83e74-ec07-43f5-be96-59bb0cb360b9",
+      "jenisKelamin": "r",
+      "tempatLahir": "Tangerang Selatan",
+      "tanggalLahir": "1947-01-19T01:06:34.123Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "f6e09ea8-47f3-4cc2-84bc-00b689582936",
+      "umur": 32,
+      "agama": "islam",
+      "divisi": "translator",
+      "jabatan": "operator",
+      "grade": "10",
+      "dateOfHiring": "2010-07-22T07:41:27.089Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 29833,
+      "status": "aktif",
+      "nama": "Halima Oktaviani",
+      "perusahaan": "BAOSHUO",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "65440466-ef0f-42e6-85fc-cdf64ed83a32",
+      "asalKtp": "jakarta",
+      "kategori": "ambunu",
+      "telepon": "+624632703575",
+      "teleponDarurat": "+628819062592",
+      "alamat": "Ds. Enos no 3 Apt. 229",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 93157
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2060-01-30T08:40:52.240Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2081-09-08T20:21:22.253Z",
+        "keterangan": "quaerat debitis quae"
+      },
+      "mutasi": {
+        "tanggal": "2092-02-04T13:49:36.278Z",
+        "deskripsi": "quos aut natus"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 20453,
+        "ibuKandung": "Dacin Saputra",
+        "pasangan": {
+          "nama": "Sari Maryati",
+          "ktp": 39124,
+          "tanggalLahir": "1978-04-17T11:22:19.298Z",
+          "temparLahir": "Negara,Bali"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "3db5bace-30e4-4462-9c1f-6d44b47260a9",
+      "jenisKelamin": "i",
+      "tempatLahir": "Sinjai",
+      "tanggalLahir": "1945-10-02T07:01:51.782Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "89b70a6c-d408-41c3-97a6-1cca1ed62aa3",
+      "umur": 54,
+      "agama": "islam",
+      "divisi": "driver",
+      "jabatan": "operator",
+      "grade": "6A",
+      "dateOfHiring": "2064-08-22T06:28:15.044Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 16740,
+      "status": "aktif",
+      "nama": "Jamal Rahardian",
+      "perusahaan": "BEISHI",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "pajak",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "a2204754-0171-4978-adf3-ae666f98bb59",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+628941686690",
+      "teleponDarurat": "+624797237036",
+      "alamat": "Jr. Kulas no 2 Suite 268",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 99479
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2003-01-25T23:10:10.145Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2031-10-02T14:45:17.589Z",
+        "keterangan": "temporibus facere iusto"
+      },
+      "mutasi": {
+        "tanggal": "2040-04-13T13:06:53.273Z",
+        "deskripsi": "deserunt maxime similique"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 23172,
+        "ibuKandung": "Vania Ningrum M.TI.",
+        "pasangan": {
+          "nama": "Kasusra Adhitama",
+          "ktp": 4618,
+          "tanggalLahir": "1958-10-20T13:16:17.649Z",
+          "temparLahir": "Subang"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "b94ed1c2-ab53-4bcd-a184-65842ede56ad",
+      "jenisKelamin": "l",
+      "tempatLahir": "Malili",
+      "tanggalLahir": "1964-04-28T16:02:11.085Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "561d87e4-bb9c-486f-9c10-70419b3918bb",
+      "umur": 35,
+      "agama": "kristen",
+      "divisi": "hr",
+      "jabatan": "translator",
+      "grade": "9",
+      "dateOfHiring": "1996-12-06T02:26:25.731Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 85516,
+      "status": "tidak aktif",
+      "nama": "Wulandari Handayani",
+      "perusahaan": "BAOSHUO",
+      "departement": "bussiness",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "f0ac8522-3ece-4803-ac32-7593505ddef6",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+624595593356",
+      "teleponDarurat": "+627724742731",
+      "alamat": "Kpg. Kub no 02 Apt. 957",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 88075
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2040-03-21T22:20:21.821Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2018-03-02T04:52:20.137Z",
+        "keterangan": "iure reiciendis numquam"
+      },
+      "mutasi": {
+        "tanggal": "2033-03-21T22:10:53.915Z",
+        "deskripsi": "commodi quia magni"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 33080,
+        "ibuKandung": "Yosef Haikal",
+        "pasangan": {
+          "nama": "Bakianto Marbun",
+          "ktp": 20608,
+          "tanggalLahir": "1951-12-02T19:44:33.437Z",
+          "temparLahir": "Gresik"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "fd4b3b7b-f40b-45d9-84c7-311be546c560",
+      "jenisKelamin": "a",
+      "tempatLahir": "Palopo",
+      "tanggalLahir": "1948-10-02T00:36:37.625Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "5ff79055-6998-4344-93a8-bef2f1d42e31",
+      "umur": 58,
+      "agama": "kristen",
+      "divisi": "driver",
+      "jabatan": "staff",
+      "grade": "10",
+      "dateOfHiring": "2067-11-19T06:45:54.234Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 82259,
+      "status": "aktif",
+      "nama": "Bakti Mangunsong",
+      "perusahaan": "BAOSHUO",
+      "departement": "logistic",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "0aef751a-c7f4-4e0c-a92f-b12ee1ee8a5b",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+622613593737",
+      "teleponDarurat": "+626803943097",
+      "alamat": "Jln. Lynch no 85 Suite 917",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 59574
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2079-03-14T03:30:30.470Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2080-02-16T05:32:49.866Z",
+        "keterangan": "sunt ut nostrum"
+      },
+      "mutasi": {
+        "tanggal": "1995-08-19T05:37:27.789Z",
+        "deskripsi": "assumenda assumenda animi"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 72188,
+        "ibuKandung": "Almira Prastuti",
+        "pasangan": {
+          "nama": "Ayu Mayasari",
+          "ktp": 77913,
+          "tanggalLahir": "1975-04-20T01:34:47.999Z",
+          "temparLahir": "Pare-Pare"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "acf795ca-e935-43ca-ae82-e8fb8d7d78e0",
+      "jenisKelamin": "l",
+      "tempatLahir": "Demak",
+      "tanggalLahir": "1963-08-25T04:48:47.932Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "c2b6e9eb-fe76-4780-ab48-c86058a955c1",
+      "umur": 56,
+      "agama": "hindu",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "7",
+      "dateOfHiring": "2025-09-05T12:08:07.435Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 17159,
+      "status": "aktif",
+      "nama": "Nilam Palastri M.Ak",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s1",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "5d6e95d5-00a0-4b4b-af76-dcc5c21960ca",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+624051072723",
+      "teleponDarurat": "+625253073693",
+      "alamat": "Dk. Mosciski no 07 Suite 728",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 47748
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "pelanggaran",
+        "tanggalKeluar": "2048-11-01T17:07:06.755Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2019-11-01T17:15:41.777Z",
+        "keterangan": "quo debitis officiis"
+      },
+      "mutasi": {
+        "tanggal": "2037-04-19T05:13:12.801Z",
+        "deskripsi": "optio provident ut"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 6782,
+        "ibuKandung": "Wulandari Rahimah",
+        "pasangan": {
+          "nama": "Puti Elvina",
+          "ktp": 2476,
+          "tanggalLahir": "1959-02-07T07:49:27.185Z",
+          "temparLahir": "Madiun"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "77c15076-3ca1-47b0-bc96-53753d93d0a6",
+      "jenisKelamin": "-",
+      "tempatLahir": "Kwandang",
+      "tanggalLahir": "1960-05-28T18:22:54.965Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "4bda0a68-8815-4987-8e11-e113fd4f5460",
+      "umur": 58,
+      "agama": "islam",
+      "divisi": "finance",
+      "jabatan": "translator",
+      "grade": "7",
+      "dateOfHiring": "2029-03-06T21:35:42.654Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 88297,
+      "status": "aktif",
+      "nama": "Padma Wahyuni",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "3724ecd3-9f1c-425d-8c5a-82a0b629b702",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+620060040509",
+      "teleponDarurat": "+620388046055",
+      "alamat": "Kpg. Howell no 46 Suite 462",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 26621
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "",
+        "tanggalKeluar": "2089-09-29T13:44:01.890Z",
+        "kontrak": "",
+        "tanggalPengajuan": "2060-06-15T00:56:26.443Z",
+        "keterangan": "non eligendi illum"
+      },
+      "mutasi": {
+        "tanggal": "2096-11-18T03:30:26.846Z",
+        "deskripsi": "iste ratione aperiam"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 74224,
+        "ibuKandung": "Galar Darmawan",
+        "pasangan": {
+          "nama": "Rachel Astuti",
+          "ktp": 37555,
+          "tanggalLahir": "1951-04-16T17:40:40.721Z",
+          "temparLahir": "Barru"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "a4bf537a-e932-405d-9a21-1da113cd1943",
+      "jenisKelamin": "l",
+      "tempatLahir": "Garut",
+      "tanggalLahir": "1991-03-13T02:08:22.723Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "553000a6-05fa-4785-a7b3-9e00a201e307",
+      "umur": 45,
+      "agama": "islam",
+      "divisi": "finance",
+      "jabatan": "translator",
+      "grade": "6A",
+      "dateOfHiring": "2057-07-04T02:12:53.099Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 94347,
+      "status": "tidak aktif",
+      "nama": "Nimas Pudjiastuti",
+      "perusahaan": "BEISHI",
+      "departement": "ga",
+      "pendidikan": "s1",
+      "jurusan": "pajak",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "0dffe967-daeb-445f-895a-2f03aea3bae0",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+623342673179",
+      "teleponDarurat": "+622407594648",
+      "alamat": "Jr. Nader no 5 Apt. 110",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 81877
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "personal",
+        "tanggalKeluar": "2094-08-20T04:44:52.206Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2009-12-20T00:59:28.892Z",
+        "keterangan": "tempora debitis temporibus"
+      },
+      "mutasi": {
+        "tanggal": "2010-12-20T07:45:07.839Z",
+        "deskripsi": "odio aut eius"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 11549,
+        "ibuKandung": "Zelda Aurelia",
+        "pasangan": {
+          "nama": "Rachel Novitasari M.TI.",
+          "ktp": 87175,
+          "tanggalLahir": "1949-07-22T07:59:59.836Z",
+          "temparLahir": "Purwokerto"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "e89b368e-13b0-4ec4-a459-5e586beb2153",
+      "jenisKelamin": "a",
+      "tempatLahir": "Surabaya",
+      "tanggalLahir": "1958-11-08T14:56:58.756Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "43cf4f18-b1f7-47f9-beb1-0926ce37456f",
+      "umur": 60,
+      "agama": "hindu",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "10",
+      "dateOfHiring": "2078-09-21T23:25:53.179Z",
+      "kontrakSebelumnya": "1",
+      "kontrakSekarang": "k"
+    },
+    {
+      "nik": 98060,
+      "status": "aktif",
+      "nama": "Emin Kusumo",
+      "perusahaan": "BAOSHUO",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "pajak",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "9363a9d7-9820-4673-8495-ef6b5896c39d",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+620813810854",
+      "teleponDarurat": "+628189131695",
+      "alamat": "Ki. Mellie no 74 Suite 382",
+      "rekening": {
+        "bank": " bri",
+        "rekening": 61666
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "personal",
+        "tanggalKeluar": "2019-11-30T17:01:28.939Z",
+        "kontrak": "",
+        "tanggalPengajuan": "1997-12-24T03:51:19.581Z",
+        "keterangan": "nesciunt tempore et"
+      },
+      "mutasi": {
+        "tanggal": "2082-06-03T21:24:41.860Z",
+        "deskripsi": "nam illo repellendus"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 65640,
+        "ibuKandung": "Eva Lailasari",
+        "pasangan": {
+          "nama": "Raden Ramadan",
+          "ktp": 58100,
+          "tanggalLahir": "1975-01-17T21:12:59.908Z",
+          "temparLahir": "Tigaraksa"
+        },
+        "jumlahAnak": 0,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "503b31c2-19c4-4d4d-b84a-f282f03116a2",
+      "jenisKelamin": "k",
+      "tempatLahir": "Subang",
+      "tanggalLahir": "1998-02-16T05:11:20.839Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "6cbc23ce-a4ac-4c77-b048-45a993b1d1f6",
+      "umur": 43,
+      "agama": "hindu",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "7",
+      "dateOfHiring": "2058-07-20T03:46:14.748Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 44452,
+      "status": "aktif",
+      "nama": "Lulut Saefullah",
+      "perusahaan": "BEISHI",
+      "departement": "finance",
+      "pendidikan": "s2",
+      "jurusan": "hukum",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "61d3eaca-c47d-4119-9154-aca1436ac85c",
+      "asalKtp": "depok",
+      "kategori": "ambunu",
+      "telepon": "+622162414847",
+      "teleponDarurat": "+627331568965",
+      "alamat": "Psr. Brice no 02 Suite 928",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 25653
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "personal",
+        "tanggalKeluar": "2013-01-19T09:45:14.589Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2086-04-10T02:50:20.145Z",
+        "keterangan": "occaecati quam iusto"
+      },
+      "mutasi": {
+        "tanggal": "2041-08-20T17:22:28.059Z",
+        "deskripsi": "tempora cupiditate inventore"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 16181,
+        "ibuKandung": "Wani Putri",
+        "pasangan": {
+          "nama": "Tedi Mahardika",
+          "ktp": 19689,
+          "tanggalLahir": "1964-03-18T08:29:48.611Z",
+          "temparLahir": "Toli Toli"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "ae8e5eb9-ebbd-4b6b-9457-6e337e7d109b",
+      "jenisKelamin": "-",
+      "tempatLahir": "Luwuk",
+      "tanggalLahir": "2002-04-24T19:44:15.531Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "7d31ba19-da35-423f-8619-0cde3246a154",
+      "umur": 30,
+      "agama": "kristen",
+      "divisi": "finance",
+      "jabatan": "translator",
+      "grade": "10",
+      "dateOfHiring": "2024-08-03T04:13:30.206Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "w"
+    },
+    {
+      "nik": 76292,
+      "status": "tidak aktif",
+      "nama": "Yuliana Melani",
+      "perusahaan": "BAOSHUO",
+      "departement": "logistic",
+      "pendidikan": "s2",
+      "jurusan": "pajak",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "8e3a2a79-2b4d-4fa4-aed5-be4046a04281",
+      "asalKtp": "jakarta",
+      "kategori": "nasional",
+      "telepon": "+626799358632",
+      "teleponDarurat": "+623874810889",
+      "alamat": "Kpg. Raphaelle no 8 Suite 906",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 60387
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2071-09-11T17:18:39.224Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2098-06-05T03:58:36.286Z",
+        "keterangan": "repellat autem architecto"
+      },
+      "mutasi": {
+        "tanggal": "2031-03-05T21:13:56.093Z",
+        "deskripsi": "dignissimos ab repellat"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 50272,
+        "ibuKandung": "Bakianto Setiawan",
+        "pasangan": {
+          "nama": "Wirda Rahayu",
+          "ktp": 59744,
+          "tanggalLahir": "2003-02-21T12:21:52.934Z",
+          "temparLahir": "Lumajang"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "c857f390-da89-41d4-b006-f454d7a6a0ba",
+      "jenisKelamin": "r",
+      "tempatLahir": "Bungku",
+      "tanggalLahir": "1987-02-15T15:00:29.580Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "10389c67-df9d-48f5-9550-66e336842757",
+      "umur": 53,
+      "agama": "kristen",
+      "divisi": "hr",
+      "jabatan": "translator",
+      "grade": "10",
+      "dateOfHiring": "1993-02-28T20:10:53.508Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 24628,
+      "status": "aktif",
+      "nama": "Bakiadi Salahudin",
+      "perusahaan": "BEISHI",
+      "departement": "ga",
+      "pendidikan": "s2",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "kawin",
+      "ktp": "fd2612a9-f4ce-4533-8c58-804c7c34cc44",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+620377215278",
+      "teleponDarurat": "+628381747427",
+      "alamat": "Kpg. Imogene no 55 Apt. 762",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 37343
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "",
+        "tanggalKeluar": "2005-10-02T04:15:31.810Z",
+        "kontrak": "pkwt1",
+        "tanggalPengajuan": "2076-02-13T17:31:14.063Z",
+        "keterangan": "error repellat alias"
+      },
+      "mutasi": {
+        "tanggal": "2043-07-02T13:16:31.007Z",
+        "deskripsi": "exercitationem dolores placeat"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 408,
+        "ibuKandung": "Kajen Hutasoit",
+        "pasangan": {
+          "nama": "Cahyadi Kuswoyo S.Gz",
+          "ktp": 75446,
+          "tanggalLahir": "1949-12-15T04:14:32.486Z",
+          "temparLahir": "Tulungagung"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "3fad55b2-0f2f-4152-80a9-af3e0bade3c4",
+      "jenisKelamin": "l",
+      "tempatLahir": "Purworejo",
+      "tanggalLahir": "1978-12-19T22:50:27.765Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "1e887897-40ae-4909-b766-7d02b944b0b4",
+      "umur": 34,
+      "agama": "islam",
+      "divisi": "driver",
+      "jabatan": "staff",
+      "grade": "7",
+      "dateOfHiring": "2040-10-05T17:15:23.905Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "t"
+    },
+    {
+      "nik": 34519,
+      "status": "aktif",
+      "nama": "Embuh Haryanto",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "d66f23e8-53a8-4ed0-9102-07cd76482af3",
+      "asalKtp": "jakarta",
+      "kategori": "ambunu",
+      "telepon": "+621078259754",
+      "teleponDarurat": "+626817937318",
+      "alamat": "Psr. Coralie no 38 Suite 164",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 84205
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "personal",
+        "tanggalKeluar": "2032-06-02T18:35:10.454Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2000-10-21T13:11:08.156Z",
+        "keterangan": "odio itaque porro"
+      },
+      "mutasi": {
+        "tanggal": "2005-08-10T07:08:04.889Z",
+        "deskripsi": "tempora ipsum reiciendis"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 67730,
+        "ibuKandung": "Zulaikha Nurlaela",
+        "pasangan": {
+          "nama": "Ciaobella Farida",
+          "ktp": 19859,
+          "tanggalLahir": "1994-12-26T20:41:03.079Z",
+          "temparLahir": "Majalengka"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "e64a0a62-7e40-4ee3-837a-a80f42ab24bd",
+      "jenisKelamin": "k",
+      "tempatLahir": "Jombang",
+      "tanggalLahir": "1978-09-28T07:29:28.536Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "662c2ede-d99b-4bf1-9c08-7f826e520c17",
+      "umur": 35,
+      "agama": "islam",
+      "divisi": "hr",
+      "jabatan": "operator",
+      "grade": "10",
+      "dateOfHiring": "2058-09-19T20:24:39.587Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "k"
+    },
+    {
+      "nik": 42301,
+      "status": "aktif",
+      "nama": "Dimaz Airlangga",
+      "perusahaan": "BAOSHUO",
+      "departement": "ga",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "95a37c09-4ee5-49bc-b240-be5278512248",
+      "asalKtp": "depok",
+      "kategori": "nasional",
+      "telepon": "+622733447840",
+      "teleponDarurat": "+626068618259",
+      "alamat": "Dk. Megane no 1 Suite 135",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 12946
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "personal",
+        "tanggalKeluar": "2086-01-21T20:06:14.493Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2060-06-09T10:10:19.672Z",
+        "keterangan": "quos voluptate possimus"
+      },
+      "mutasi": {
+        "tanggal": "2099-12-22T19:50:26.292Z",
+        "deskripsi": "similique possimus repellat"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 14367,
+        "ibuKandung": "Omar Utama",
+        "pasangan": {
+          "nama": "Clara Purnama S.T.",
+          "ktp": 56677,
+          "tanggalLahir": "1946-08-16T02:46:21.217Z",
+          "temparLahir": "Polewali"
+        },
+        "jumlahAnak": 1,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "3db244e6-1b9e-4329-a7e5-197ce80b3409",
+      "jenisKelamin": "k",
+      "tempatLahir": "Manado",
+      "tanggalLahir": "1991-10-29T13:08:45.637Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "2985f4b1-8ac4-471f-8a5a-e2391350b2b5",
+      "umur": 32,
+      "agama": "kristen",
+      "divisi": "driver",
+      "jabatan": "operator",
+      "grade": "10",
+      "dateOfHiring": "2054-09-27T04:14:29.277Z",
+      "kontrakSebelumnya": "w",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 54762,
+      "status": "aktif",
+      "nama": "Kajen Latupono S.Pd",
+      "perusahaan": "BAOSHUO",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "06f7f423-98fa-4087-9e41-5296a1595cf9",
+      "asalKtp": "malang",
+      "kategori": "nasional",
+      "telepon": "+623941639208",
+      "teleponDarurat": "+621314739997",
+      "alamat": "Dk. Mariano no 0 Suite 585",
+      "rekening": {
+        "bank": "mandiri",
+        "rekening": 74666
+      },
+      "keluar": {
+        "tipe": "",
+        "kategori": "",
+        "tanggalKeluar": "2023-09-17T11:27:21.052Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "1996-01-02T13:16:59.765Z",
+        "keterangan": "blanditiis occaecati ducimus"
+      },
+      "mutasi": {
+        "tanggal": "2063-01-22T07:26:39.269Z",
+        "deskripsi": "quis quos ad"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 47399,
+        "ibuKandung": "Tugiman Nababan",
+        "pasangan": {
+          "nama": "Maimunah Anjani S.Psi",
+          "ktp": 39582,
+          "tanggalLahir": "1962-05-24T13:30:40.450Z",
+          "temparLahir": "Tasikmalaya"
+        },
+        "jumlahAnak": 3,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "0a3dcae5-05b5-47a1-a87a-2723c87a436c",
+      "jenisKelamin": "i",
+      "tempatLahir": "Jember",
+      "tanggalLahir": "1954-10-07T06:45:08.801Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-a",
+      "kartuKeluarga": "c2562a58-e2e9-416c-9309-5778ee457bc6",
+      "umur": 37,
+      "agama": "hindu",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "10",
+      "dateOfHiring": "2036-11-18T16:17:16.608Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "p"
+    },
+    {
+      "nik": 54805,
+      "status": "tidak aktif",
+      "nama": "Tania Rahimah",
+      "perusahaan": "BAOSHUO",
+      "departement": "bussiness",
+      "pendidikan": "s1",
+      "jurusan": "pajak",
+      "tanggungan": "tidak aktif",
+      "tanggunganPajak": "K1",
+      "statusPernikahan": "tidak aktif",
+      "tanggalUpdateKK": "tidak kawin",
+      "ktp": "c04972f5-d33b-4bd8-9dbf-49368e802a88",
+      "asalKtp": "malang",
+      "kategori": "nasional",
+      "telepon": "+622871762727",
+      "teleponDarurat": "+628818195556",
+      "alamat": "Ki. Devyn no 8 Suite 077",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 6842
+      },
+      "keluar": {
+        "tipe": "resign",
+        "kategori": "",
+        "tanggalKeluar": "2067-10-20T15:11:41.682Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2044-02-08T00:49:35.016Z",
+        "keterangan": "exercitationem placeat eius"
+      },
+      "mutasi": {
+        "tanggal": "2038-12-13T05:36:06.510Z",
+        "deskripsi": "cum officiis earum"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 84435,
+        "ibuKandung": "Tugiman Purnawarman",
+        "pasangan": {
+          "nama": "Ganjaran Permadi",
+          "ktp": 48833,
+          "tanggalLahir": "1944-05-31T14:13:18.008Z",
+          "temparLahir": "Demak"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "c2403e0e-df31-49ea-9fba-eb6f9017f31f",
+      "jenisKelamin": "i",
+      "tempatLahir": "Salatiga",
+      "tanggalLahir": "1950-03-07T12:11:10.628Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "d6b16a29-09e4-46dc-b817-d7fc66f9c70a",
+      "umur": 50,
+      "agama": "kristen",
+      "divisi": "finance",
+      "jabatan": "staff",
+      "grade": "9",
+      "dateOfHiring": "2005-09-03T18:50:14.762Z",
+      "kontrakSebelumnya": "p",
+      "kontrakSekarang": "1"
+    },
+    {
+      "nik": 61788,
+      "status": "tidak aktif",
+      "nama": "Dipa Bagaskara",
+      "perusahaan": "BAOSHUO",
+      "departement": "logistic",
+      "pendidikan": "s1",
+      "jurusan": "psikologi",
+      "tanggungan": "aktif",
+      "tanggunganPajak": "TK",
+      "statusPernikahan": "aktif",
+      "tanggalUpdateKK": "cerai",
+      "ktp": "f50b7833-84ac-44ea-b14a-e94a6cf15308",
+      "asalKtp": "malang",
+      "kategori": "ambunu",
+      "telepon": "+620853358292",
+      "teleponDarurat": "+626512623412",
+      "alamat": "Jln. Cristal no 42 Suite 685",
+      "rekening": {
+        "bank": "bca",
+        "rekening": 85798
+      },
+      "keluar": {
+        "tipe": "phk",
+        "kategori": "",
+        "tanggalKeluar": "2036-02-25T03:32:33.503Z",
+        "kontrak": "pkwt2",
+        "tanggalPengajuan": "2033-02-18T01:16:59.225Z",
+        "keterangan": "laboriosam facere voluptate"
+      },
+      "mutasi": {
+        "tanggal": "2074-07-25T18:59:04.702Z",
+        "deskripsi": "ex facere quo"
+      },
+      "dataKeluarga": {
+        "kartuKeluarga": 17591,
+        "ibuKandung": "Praba Mangunsong",
+        "pasangan": {
+          "nama": "Vania Melinda",
+          "ktp": 12330,
+          "tanggalLahir": "1984-01-16T04:22:35.322Z",
+          "temparLahir": "Situbondo"
+        },
+        "jumlahAnak": 2,
+        "anak": []
+      },
+      "kontrak": [],
+      "npwp": "54fd90af-082d-4085-9a5d-d354ec80fe23",
+      "jenisKelamin": "l",
+      "tempatLahir": "Sengkang",
+      "tanggalLahir": "1952-09-06T21:09:10.673Z",
+      "bpjs": {
+        "kesehatan": "todo",
+        "tenagaKerja": "todo"
+      },
+      "sim": "sim-c",
+      "kartuKeluarga": "763554db-991d-4e94-83e2-e4d949e8bb81",
+      "umur": 40,
+      "agama": "islam",
+      "divisi": "hr",
+      "jabatan": "staff",
+      "grade": "6A",
+      "dateOfHiring": "2022-06-08T09:07:03.804Z",
+      "kontrakSebelumnya": "t",
+      "kontrakSekarang": "k"
+    }
+  ]
+}
